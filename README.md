@@ -12,7 +12,7 @@
 ## 🚀 Projects
 - Face Recognition Attendance System (Python, OpenCV)
 - Camera-Based Motion Tracking System
-- Personality-Based AI Chatbot (ASP.NET MVC)
+- E-Marketing Website (ASP.NET MVC)
 
 ## 📫 Contact
 - Email: sufyan.saleem909@gmail.com
